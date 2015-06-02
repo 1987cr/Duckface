@@ -13,4 +13,5 @@ Base de datos: MongoDb
 Ejemplo en Postman:
 
 header: Authorization
+
 value: bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.ImFkbWluIg.vnnd88p63cjF8zdhHJuk4Zc4X6-V50QCjjpYOVKvpCY
